@@ -1,0 +1,252 @@
+.text-right {
+    
+}
+
+.text-right {
+    text-align: right;
+}
+
+.fsadfsadf li{
+    margin: 0 0 !important;
+}
+
+.fasdfdsf a{
+    color: #0e5e9f;
+    font-weight: 600;
+    font-size: 12pt;
+    text-transform: none;
+    padding: 0 0;
+}
+
+.login_title {
+    font-size: 11pt;
+    font-weight: 400;
+    color: #fff;
+    padding: 5px 10px;
+    background-color:#999;
+}
+
+.fdfdf {
+    background-color: #1f629d;
+    color: white;
+    padding: 3px 20px;
+    margin-top: 10px;
+    border-radius: 4px;
+    font-size: 11pt;
+}
+
+.loginbox {
+    border-radius: 4px;
+    margin-bottom: 15px;
+    background-color: #fff;
+    overflow: hidden;
+    box-shadow: 4px 4px 10px #999;
+}
+.loginbox  label{
+    font-size: 11pt;
+}
+
+.loginboxx {
+    border-radius: 4px;
+    margin-bottom: 15px;
+    background-color: #fff;
+    overflow: hidden;
+    box-shadow: 4px 4px 10px #999;
+}
+.loginboxx  label{
+    font-size: 11pt;
+}
+
+.fasdfdsf {
+    text-align: center;
+    margin: 0px 0px;
+}
+.fasdfdsf li{
+    list-style: none;
+}
+.fasdfdsf li{
+    float: left !important;
+}
+.fasdfdsf li{
+    /*
+    transform:  skew(-15deg) ;
+    */
+    margin: 0px 2px;
+    padding: 5px 15px;
+    font-size: 11pt;
+    text-transform: uppercase;
+}
+
+.selected {
+    background-color: #2877a8
+}
+
+.slantedx {
+    transform: skew(-15deg);
+    height: 100%;
+    position: absolute;
+    width: 100px;
+    background-color: #0376ab;
+    left: -20px;
+}
+
+.barx {
+    /*background: linear-gradient(287deg,#313e48,#313e48 85px,#054F7F 85px,#054F7F 170px,#066BAD 170px,#066BAD 340px,#5FABDD 340px,#5FABDD 595px,#02263D 595px,#000);*/
+    background-color: #000;
+    position: absolute;
+    top: 0px;
+    height: 10px;
+    width: 100%;
+}
+
+.fadsf {
+    padding: 40px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 4px 4px 10px #999;
+}
+
+.slantedxright {
+    left: auto;
+    right: -100px;
+    width: 500px;
+}
+
+.xxxf {
+    position: fixed;
+    z-index: 999;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+}
+
+#intro-half-left-3 {
+    margin-bottom: 0px;
+}
+
+.navbar {
+    background-color: #ccc;
+}
+
+.dfddf {
+    background-color: #eaeaea;
+    padding: 10px 0px;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+
+body {
+    background-color: #fff;
+}
+
+
+
+
+
+#wrap {
+    
+}
+
+.fdsfased .col-sm-4{
+    padding: 0px 30px !important;
+}
+
+.fdsfased #physicians *,.fdsfased #clients *{
+    font-size: 11pt;
+}
+
+.login_txt {
+    width: 100%;
+    font-size: 10pt;border: solid 1px #ccc;
+    padding: 5px;
+    border-radius: 4px;
+}
+
+
+.login_label {
+    position: absolute;
+    display: block;
+    right: 5px;
+    margin: 5px;
+    color: #0e5e9f;
+    cursor: pointer;
+}
+
+.login_txt_box {
+    position: relative;
+    margin: 3px;
+}
+
+.linkx {
+    color: #0e5e9f !important;
+}
+
+.login_back {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(3,118,171,.95);
+    z-index: 9999;
+}
+
+.box {
+    position: relative;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-color: #ccc;
+    border-radius: 4px;
+    width: 400px;
+    height: 100px;
+}
+
+#admin_login {
+
+}
+
+#msgbox {
+    display: none;
+}
+
+#phy_login {
+    display: none;
+}
+
+.xx {
+    font-size: 10pt;
+    float: right;margin-top: 20px;
+    font-weight: 400;
+    color: #999;
+}
+.xx a{
+    color: #0e5e9f;
+}
+
+.icon-eye {
+    position: absolute;
+    right: 65px;
+    top:8px;
+    color: #333;
+    cursor: pointer;
+    font-size: 12pt;
+}
+.icon-eye:hover{
+    color: black;
+}
+
+#board_cert .btn-secondary{
+    background-color: #ccc;
+}
+#board_cert .btn-secondary.active{
+    background-color: #0e5e9f;
+}
+#board_cert .btn-secondary.focus{
+    border: none;
+}
+
+th{
+    text-decoration: underline;
+    cursor: pointer;
+}

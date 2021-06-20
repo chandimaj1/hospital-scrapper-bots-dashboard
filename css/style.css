@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:500,100,400,600,300);
+@import url(https://fonts.googleapis.com/css?family=Roboto:500,100,300);
+@import url(https://fonts.googleapis.com/css?family=Oswald:300);
+@import url(https://fonts.googleapis.com/css?family=Dosis:300);
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:300);
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Parisienne);
+@import url(https://fonts.googleapis.com/css?family=Nothing+You+Could+Do);
+
+/*----------------------------------------------------------------------------------------
+                        FONT (OPEN SANS) IMPORT FROM GOOGLE FONTS 
+-----------------------------------------------------------------------------------------*/
+
+
+/*----------------------------------------------------------------------------------------
+                        COMMON STYLES
+-----------------------------------------------------------------------------------------*/
+
+body{
+    overflow-x: hidden;
+    width: 100%;
+    font-family: "Open Sans" !important;
+    font-size: 17px;
+    font-weight: lighter;
+    line-height: 1.5;
+}
